@@ -1,3 +1,3 @@
 # MathGraphProject
-нужно установить django 
-pip install django, желательно в виртуальном окружении 
+нужно установить django
+pip --install django, желательно в виртуальном окружении 
