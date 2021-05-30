@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="ru" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name = 'juk' content = 'Учебный проект по анализу и визуализации данных с wikidata'>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href = {% static "css/style.css" %}>
+    <link rel="stylesheet" type="text/css" href = {% static "css/buttons.css" %}>
+    <script src="{% static 'js/dragscroll.js' %}"></script>
+    <title>Проект: граф математики</title>
+  </head>
+  <body>
+    <div class = 'page-header'>
+        <a class = 'header-logo' href="/">
+          <img  src = {% static 'imgs/logo.png' %} alt = 'Логотип проекта'   height = '130px' width =  '130px'>
+        </a>
+      <div class = 'promo'>
+        <h1>Проект: граф математики<h1>
+      </div>
+    </div>
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>

@@ -1,0 +1,1854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3573.4023"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1447.000000 -1998.000000 3573.402344 3196.000000" height="3196.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 1568.019531,644.377319 C 1544.293091,645.135925 1507.565674,610.684326 1506.807007,586.957947"
+              class="id_714152tset id_641612prob" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1432.862305,694.930542 C 1426.056763,658.547058 1470.423584,593.763550 1506.807007,586.957947"
+              class="id_689206tmes id_641612prob" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1761.498779,627.523132 C 1702.447388,670.348450 1549.632324,646.009338 1506.807007,586.957947"
+              class="id_176529comb id_641612prob" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1506.807007,586.957947 C 1548.130249,555.720032 1656.972046,570.848145 1688.209839,612.171387"
+              class="id_641612prob id_717793sump" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1506.807007,586.957947 C 1581.776001,556.208862 1740.353027,622.538757 1771.102051,697.507690"
+              class="id_641612prob id_307380cond" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.102051,697.507690 C 1737.456299,697.018860 1687.721069,645.817078 1688.209839,612.171387"
+              class="id_307380cond id_717793sump" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.102051,697.507690 C 1756.603394,735.063965 1678.521240,769.650513 1640.964966,755.151978"
+              class="id_307380cond id_861444baes" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1506.807007,586.957947 C 1567.277344,593.765137 1647.772217,694.681580 1640.964966,755.151978"
+              class="id_641612prob id_861444baes" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1688.209839,612.171387 C 1695.369751,587.277588 1743.450439,560.676697 1768.344238,567.836609"
+              class="id_717793sump id_140756bern" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1761.498779,627.523132 C 1750.930664,614.216736 1755.037842,578.404846 1768.344238,567.836609"
+              class="id_176529comb id_140756bern" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1768.344238,567.836609 C 1699.643188,533.053223 1648.766479,377.826630 1683.549805,309.125519"
+              class="id_140756bern id_734880dist" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1688.209839,612.171387 C 1626.668701,552.494202 1623.872681,370.666687 1683.549805,309.125519"
+              class="id_717793sump id_734880dist" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1506.807007,586.957947 C 1486.588989,496.042908 1592.634766,329.343445 1683.549805,309.125519"
+              class="id_641612prob id_734880dist" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1716.523560,267.340363 1828.661865,254.123215 1870.447144,287.096985"
+              class="id_734880dist id_498041chha" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1872.980469,312.394653 1838.833984,354.141174 1813.536255,356.674500"
+              class="id_498041chha id_561284rfun" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1719.056885,292.638031 1797.048706,321.167419 1813.536255,356.674500"
+              class="id_734880dist id_561284rfun" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1752.655396,237.618149 1963.574707,234.015396 2035.082153,303.120972"
+              class="id_734880dist id_991040rvec" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2035.082153,303.120972 C 2059.989258,327.214111 2061.210449,400.714661 2037.117310,425.621887"
+              class="id_991040rvec id_87145condd" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.102051,697.507690 C 1769.927856,589.927490 1929.537109,426.796021 2037.117310,425.621887"
+              class="id_307380cond id_87145condd" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1931.486084,281.467926 2031.488281,364.582855 2037.117310,425.621887"
+              class="id_498041chha id_87145condd" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2092.589600,201.086365 C 2126.402344,257.087921 2093.118652,391.809235 2037.117310,425.621887"
+              class="id_672395indv id_87145condd" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2035.082153,303.120972 C 2007.020630,277.786987 2002.929321,197.693756 2028.263306,169.632248"
+              class="id_991040rvec id_167610lreg" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1878.517456,232.040802 1973.207153,161.561966 2028.263306,169.632248"
+              class="id_498041chha id_167610lreg" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2092.589600,201.086365 C 2073.433594,207.660812 2034.837769,188.788330 2028.263306,169.632248"
+              class="id_672395indv id_167610lreg" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2035.082153,303.120972 C 2000.180542,302.631897 1948.561768,249.545837 1949.050781,214.644211"
+              class="id_991040rvec id_717912lcor" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1871.677246,256.885712 1918.839478,213.414032 1949.050781,214.644211"
+              class="id_498041chha id_717912lcor" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1717.753784,237.129059 1877.054321,180.440277 1949.050781,214.644211"
+              class="id_734880dist id_717912lcor" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2092.589600,201.086365 C 2066.593506,232.505692 1980.470093,240.640411 1949.050781,214.644211"
+              class="id_672395indv id_717912lcor" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1865.331299,352.127441 1760.111694,441.999298 1695.081299,436.883392"
+              class="id_498041chha id_283030tlim" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1506.807007,586.957947 C 1514.447021,519.288208 1627.411499,429.243469 1695.081299,436.883392"
+              class="id_641612prob id_283030tlim" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1711.407715,332.370789 1718.326660,409.025513 1695.081299,436.883392"
+              class="id_734880dist id_283030tlim" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1746.823364,309.948395 1840.499390,406.093018 1839.676514,469.366577"
+              class="id_734880dist id_115738dpar" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1900.746826,329.705017 1882.284668,439.066772 1839.676514,469.366577"
+              class="id_498041chha id_115738dpar" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1761.498779,627.523132 C 1745.502930,580.256287 1792.409668,485.362335 1839.676514,469.366577"
+              class="id_176529comb id_115738dpar" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1691.361328,234.389938 1815.181763,134.003769 1889.917358,141.815231"
+              class="id_734880dist id_804938krit" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1845.284790,254.146606 1856.966919,166.977539 1889.917358,141.815231"
+              class="id_498041chha id_804938krit" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1822.540771,92.706215 C 1845.837891,89.052696 1886.263794,118.518105 1889.917358,141.815231"
+              class="id_163416hipo id_804938krit" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1822.540771,92.706215 C 1843.869629,104.629974 1857.977295,154.508850 1846.053467,175.837692"
+              class="id_163416hipo id_604150kyes" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1689.392944,249.967224 1786.895142,169.994522 1846.053467,175.837692"
+              class="id_734880dist id_604150kyes" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1843.316528,269.723846 1828.680420,202.968292 1846.053467,175.837692"
+              class="id_498041chha id_604150kyes" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1889.917358,141.815231 C 1887.948975,157.392502 1861.630737,177.805984 1846.053467,175.837692"
+              class="id_804938krit id_604150kyes" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1668.064209,238.043457 1751.458740,108.191887 1822.540771,92.706215"
+              class="id_734880dist id_163416hipo" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1821.987671,257.800110 1793.243896,141.165649 1822.540771,92.706215"
+              class="id_498041chha id_163416hipo" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2092.589600,201.086365 C 2016.903809,233.420105 1854.874512,168.392014 1822.540771,92.706215"
+              class="id_672395indv id_163416hipo" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1822.540771,92.706215 C 1801.011108,120.186485 1727.496338,129.112411 1700.015991,107.582764"
+              class="id_163416hipo id_158398rega" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1646.534424,265.523712 1656.414185,144.598068 1700.015991,107.582764"
+              class="id_734880dist id_158398rega" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1800.458130,285.280365 1698.199341,177.571838 1700.015991,107.582764"
+              class="id_498041chha id_158398rega" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2028.263306,169.632248 C 1950.203979,222.871811 1753.255493,185.642120 1700.015991,107.582764"
+              class="id_167610lreg id_158398rega" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1822.540771,92.706215 C 1781.373291,149.208405 1634.868896,172.210495 1578.366699,131.043045"
+              class="id_163416hipo id_78989dispa" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1626.896729,294.545654 1563.786865,187.696167 1578.366699,131.043045"
+              class="id_734880dist id_78989dispa" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1780.820190,314.302277 1605.572021,220.669922 1578.366699,131.043045"
+              class="id_498041chha id_78989dispa" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1822.540771,92.706215 C 1777.173950,127.743736 1656.567383,112.249779 1621.529907,66.882957"
+              class="id_163416hipo id_777246cora" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1949.050781,214.644211 C 1853.994385,250.596130 1657.481812,161.939392 1621.529907,66.882957"
+              class="id_717912lcor id_777246cora" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1622.697388,273.080994 1585.485352,127.735443 1621.529907,66.882957"
+              class="id_734880dist id_777246cora" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1506.807007,586.957947 C 1517.746338,541.618652 1602.164185,490.018677 1647.503418,500.957977"
+              class="id_641612prob id_934682trpr" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1568.019531,644.377319 C 1555.232422,599.796631 1602.922852,513.745056 1647.503418,500.957977"
+              class="id_714152tset id_934682trpr" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1683.549805,309.125519 C 1714.707031,354.701294 1693.079102,469.800781 1647.503418,500.957977"
+              class="id_734880dist id_934682trpr" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1870.447144,287.096985 C 1868.630615,374.457916 1734.864380,502.774536 1647.503418,500.957977"
+              class="id_498041chha id_934682trpr" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 480.699738,82.150826 714.449280,65.168221 798.026733,137.423889"
+              class="id_0 id_1" stroke-opacity="1.0" stroke="#7f93c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 712.362549,30.301590 1371.380371,283.039429 1506.807007,586.957947"
+              class="id_0 id_641612prob" stroke-opacity="1.0" stroke="#af914a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 692.144653,-60.613464 1457.208130,25.424911 1683.549805,309.125519"
+              class="id_0 id_734880dist" stroke-opacity="1.0" stroke="#e271b5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 250.762695,489.265259 -471.064789,738.048645 -794.601807,580.367310"
+              class="id_0 id_2" stroke-opacity="1.0" stroke="#f4714b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.026733,137.423889 C 784.192810,127.596916 778.182495,92.105644 788.009460,78.271767"
+              class="id_1 id_4" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.026733,137.423889 C 815.052795,125.858368 857.940125,134.049149 869.505615,151.075180"
+              class="id_1 id_5" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.026733,137.423889 C 799.668884,156.803192 773.063232,188.335388 753.683899,189.977570"
+              class="id_1 id_6" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.026733,137.423889 C 815.440796,154.985931 815.218872,207.450104 797.656860,224.864197"
+              class="id_1 id_7" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.026733,137.423889 C 821.285767,142.124329 849.123718,184.063614 844.423279,207.322678"
+              class="id_1 id_8" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 409.514526,-1.145348 661.430542,-249.850037 828.304138,-248.779587"
+              class="id_0 id_60" stroke-opacity="1.0" stroke="#967679"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -790.655518,711.156006 -980.919128,913.258484 -1111.707764,917.204773"
+              class="id_2 id_9" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1111.707764,917.204773 C -1113.181519,980.040894 -1209.646484,1072.084351 -1272.482544,1070.610596"
+              class="id_9 id_10" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1111.707764,917.204773 C -1111.800415,939.036194 -1144.686646,971.644470 -1166.518066,971.551819"
+              class="id_9 id_11" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -807.426941,542.209167 -769.427490,465.734314 -731.269348,452.909180"
+              class="id_2 id_12" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -840.589539,649.510437 -1013.285828,684.243530 -1082.428955,638.255798"
+              class="id_2 id_13" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1082.428955,638.255798 C -1098.688721,662.678711 -1159.712524,674.923401 -1184.135376,658.663696"
+              class="id_13 id_14" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -914.441711,606.577209 -1133.516357,466.132111 -1159.726196,346.292236"
+              class="id_2 id_15" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1159.726196,346.292236 C -1190.295654,357.537750 -1253.018311,328.551727 -1264.263794,297.982178"
+              class="id_15 id_16" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1159.726196,346.292236 C -1190.956299,345.140991 -1236.074585,296.568909 -1234.923340,265.338806"
+              class="id_15 id_17" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -757.749268,569.177612 -685.686035,607.671997 -674.496338,644.524536"
+              class="id_2 id_18" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -758.914307,746.218933 -954.160645,1048.527588 -1120.012207,1084.215088"
+              class="id_2 id_19" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1120.012207,1084.215088 C -1113.542480,1112.851318 -1146.792480,1165.510498 -1175.428711,1171.980225"
+              class="id_19 id_20" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1120.012207,1084.215088 C -1150.821655,1135.117554 -1273.389526,1165.257202 -1324.291992,1134.447754"
+              class="id_19 id_21" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1120.012207,1084.215088 C -1099.769531,1105.126465 -1100.772461,1166.857422 -1121.683838,1187.100098"
+              class="id_19 id_23" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1272.482544,1070.610596 C -1270.077026,1093.739990 -1301.162598,1132.042236 -1324.291992,1134.447754"
+              class="id_10 id_21" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -764.956482,622.409729 -783.552185,729.941223 -825.594604,759.586548"
+              class="id_2 id_24" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -749.633545,592.418579 -700.258118,677.947937 -712.309387,722.916199"
+              class="id_2 id_25" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -751.765869,604.337891 -723.467834,704.547791 -747.438416,747.383728"
+              class="id_2 id_26" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -637.965027,547.354187 -353.490234,732.789734 -320.477142,889.426514"
+              class="id_2 id_27" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.477142,889.426514 C -305.287964,910.908752 -314.727661,965.915955 -336.209930,981.105103"
+              class="id_27 id_28" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.477142,889.426514 C -292.898743,907.975159 -279.354034,977.165649 -297.902649,1004.744080"
+              class="id_27 id_29" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.477142,889.426514 C -295.897217,895.153870 -267.618347,940.614868 -273.345734,965.194763"
+              class="id_27 id_30" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -896.786682,655.592957 -1162.902466,615.154053 -1238.128052,512.969177"
+              class="id_2 id_31" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1238.128052,512.969177 C -1260.961548,541.255859 -1337.641968,549.435669 -1365.928589,526.602112"
+              class="id_31 id_32" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1238.128052,512.969177 C -1268.337036,528.446228 -1336.866333,506.348206 -1352.343384,476.139099"
+              class="id_31 id_33" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -839.178101,745.219482 -1153.320801,925.633301 -1318.172974,881.057007"
+              class="id_2 id_34" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1318.172974,881.057007 C -1331.810913,908.749451 -1393.806519,929.831177 -1421.498901,916.193298"
+              class="id_34 id_35" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1318.172974,881.057007 C -1344.204468,902.215515 -1414.989380,894.906067 -1436.147827,868.874634"
+              class="id_34 id_36" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1318.172974,881.057007 C -1301.157227,931.376648 -1351.112915,1032.379883 -1401.432617,1049.395630"
+              class="id_34 id_37" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -769.820496,607.254333 -772.979187,684.756958 -799.866211,709.538269"
+              class="id_2 id_38" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -836.785034,556.540405 -864.319458,457.525177 -840.492554,415.341949"
+              class="id_2 id_39" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -752.218506,582.709595 -692.157043,649.798035 -694.499329,692.181335"
+              class="id_2 id_40" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -836.099304,603.158142 -932.531677,575.098022 -955.322510,533.600525"
+              class="id_2 id_41" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -842.564209,587.543030 -925.271118,526.362976 -932.446838,478.400604"
+              class="id_2 id_42" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -756.830872,489.404816 -563.730652,409.617584 -472.768188,447.388580"
+              class="id_2 id_43" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -786.967957,613.574890 -825.328491,674.836914 -858.536072,682.470764"
+              class="id_2 id_44" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -821.164856,545.737366 -809.064392,453.947784 -774.434448,427.384735"
+              class="id_2 id_45" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -830.374268,570.540161 -869.292358,502.140717 -859.465210,466.368225"
+              class="id_2 id_46" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -928.757019,383.857025 -835.224487,-112.141228 -638.714172,-246.296448"
+              class="id_2 id_47" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -779.964661,627.709900 -829.022766,720.679565 -876.365356,735.316711"
+              class="id_2 id_48" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -831.038269,590.411072 -900.758545,550.822021 -910.802307,514.385559"
+              class="id_2 id_49" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -668.709106,339.003113 -117.823753,165.795853 123.540459,291.688568"
+              class="id_2 id_50" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -823.761719,607.530640 -908.246460,604.535767 -935.409790,575.375854"
+              class="id_2 id_51" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -847.173950,576.547852 -920.303101,491.960419 -916.483643,439.388214"
+              class="id_2 id_52" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -817.894897,618.646484 -910.253357,641.125610 -948.532532,617.832520"
+              class="id_2 id_54" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -799.854797,631.823669 -884.918762,701.128845 -936.375122,695.875854"
+              class="id_2 id_55" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -744.800171,495.340668 -542.557678,442.503265 -457.531067,492.304932"
+              class="id_2 id_56" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -794.137146,543.305725 -737.847717,488.410309 -700.786133,488.874969"
+              class="id_2 id_57" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -804.268372,618.650452 -876.192871,661.575195 -914.476013,651.908630"
+              class="id_2 id_58" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -794.601807,580.367310 C -769.994690,553.654724 -693.015198,550.496521 -666.302612,575.103638"
+              class="id_2 id_59" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.026733,137.423889 C 818.770203,44.601730 989.118591,-63.516304 1081.940796,-42.772835"
+              class="id_1 id_3" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 828.304138,-248.779587 C 799.475525,-305.562469 841.406982,-433.979645 898.189819,-462.808228"
+              class="id_60 id_61" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 828.304138,-248.779587 C 806.836914,-258.501801 789.219299,-305.286072 798.941528,-326.753357"
+              class="id_60 id_63" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 828.304138,-248.779587 C 870.407104,-272.709015 969.455688,-245.448730 993.385071,-203.345779"
+              class="id_60 id_64" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 828.304138,-248.779587 C 816.439941,-273.495117 835.717041,-328.364624 860.432556,-340.228760"
+              class="id_60 id_65" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 828.304138,-248.779587 C 871.915894,-259.710052 953.729309,-210.688080 964.659790,-167.076279"
+              class="id_60 id_66" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 898.189819,-462.808228 C 885.401978,-485.868103 900.809998,-539.639709 923.869934,-552.427551"
+              class="id_61 id_62" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -407.636414,-1060.805908 -341.116821,-1100.429932 -305.735626,-1091.464722"
+              class="id_67 id_68" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -291.751038,-1155.206421 90.197594,-1162.603394 219.979416,-1037.752808"
+              class="id_67 id_69" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 219.979416,-1037.752808 C 226.035172,-1059.106934 267.150024,-1082.054565 288.504181,-1075.998779"
+              class="id_69 id_70" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 219.979416,-1037.752808 C 396.241669,-1037.850830 660.782166,-773.604431 660.880127,-597.342163"
+              class="id_69 id_71" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 219.979416,-1037.752808 C 201.972977,-1049.151489 192.061371,-1093.259277 203.460052,-1111.265625"
+              class="id_69 id_72" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 219.979416,-1037.752808 C 204.087799,-1063.097290 218.267090,-1124.951538 243.611603,-1140.843140"
+              class="id_69 id_73" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 219.979416,-1037.752808 C 216.130966,-1068.799194 256.927887,-1121.141602 287.974304,-1124.989990"
+              class="id_69 id_74" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -608.053589,-1067.777588 -831.702148,-1418.484863 -789.349182,-1609.936890"
+              class="id_67 id_75" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -789.349182,-1609.936890 C -890.207336,-1632.530151 -1007.604736,-1817.707275 -985.011475,-1918.565430"
+              class="id_75 id_76" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -789.349182,-1609.936890 C -801.089111,-1627.509766 -792.339783,-1671.479004 -774.766968,-1683.218872"
+              class="id_75 id_81" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -789.349182,-1609.936890 C -806.482849,-1599.039795 -848.529053,-1608.394409 -859.426270,-1625.528076"
+              class="id_75 id_82" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -789.349182,-1609.936890 C -810.137756,-1612.501099 -837.474243,-1647.530518 -834.909912,-1668.319092"
+              class="id_75 id_83" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -985.011475,-1918.565430 C -991.964661,-1934.326172 -978.753296,-1968.397095 -962.992615,-1975.350220"
+              class="id_76 id_77" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -985.011475,-1918.565430 C -1006.930664,-1912.820313 -1048.427124,-1937.081299 -1054.172241,-1959.000488"
+              class="id_76 id_78" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -985.011475,-1918.565430 C -1004.655579,-1926.513184 -1022.199890,-1967.901123 -1014.252075,-1987.545166"
+              class="id_76 id_79" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -985.011475,-1918.565430 C -997.645081,-1900.447754 -1043.771851,-1892.221802 -1061.889526,-1904.855347"
+              class="id_76 id_80" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -432.627747,-985.767029 -516.153503,-950.319702 -555.811157,-966.345886"
+              class="id_67 id_84" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -459.294464,-1003.772827 -555.811584,-1035.334351 -577.463440,-1078.027222"
+              class="id_67 id_85" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -419.259277,-989.094482 -477.741119,-938.585693 -514.071289,-941.243408"
+              class="id_67 id_86" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -425.887146,-1056.166626 -393.702576,-1116.207764 -362.960663,-1125.493408"
+              class="id_67 id_87" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -439.597778,-1053.260986 -432.337494,-1129.509766 -404.501160,-1152.505981"
+              class="id_67 id_88" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -433.540192,-1068.326904 -394.594879,-1158.087891 -351.692780,-1175.026489"
+              class="id_67 id_89" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -448.786407,-992.451782 -546.522949,-991.269714 -579.495850,-1023.454529"
+              class="id_67 id_90" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -417.824921,-1069.595703 -353.403229,-1137.687378 -309.232147,-1138.910645"
+              class="id_67 id_91" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -462.702057,-1044.387695 -503.408264,-1141.982788 -484.445313,-1188.083252"
+              class="id_67 id_92" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -395.889038,-1052.732422 -323.858612,-1062.625244 -296.550842,-1041.912720"
+              class="id_67 id_93" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -451.885162,-1023.749817 -507.322723,-1074.163086 -508.997528,-1109.446533"
+              class="id_67 id_94" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -386.510529,-1035.363647 -326.465363,-1005.135681 -316.526337,-975.044556"
+              class="id_67 id_95" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -450.681793,-1036.795898 -484.745361,-1104.972900 -473.374207,-1139.053101"
+              class="id_67 id_96" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -449.937561,-1062.329712 -444.583954,-1167.691284 -407.678894,-1201.027222"
+              class="id_67 id_97" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -465.847015,-1031.911865 -529.984314,-1115.510864 -523.497070,-1164.756348"
+              class="id_67 id_98" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -436.360626,-997.989624 -507.151733,-986.475708 -534.586731,-1006.234741"
+              class="id_67 id_99" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -305.198486,-825.176514 -438.466003,-357.699554 -638.714172,-246.296448"
+              class="id_67 id_47" stroke-opacity="1.0" stroke="#f4714b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -408.113525,-993.035767 -443.964783,-931.720276 -476.353668,-923.232239"
+              class="id_67 id_101" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -464.157196,-1017.352966 -547.598145,-1076.578857 -555.669861,-1124.134399"
+              class="id_67 id_102" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -388.680511,-1006.402405 -375.332275,-935.987488 -394.354492,-908.066406"
+              class="id_67 id_103" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -416.601593,-1025.424683 C -447.532501,-1009.291870 -518.128052,-1031.489014 -534.260864,-1062.419922"
+              class="id_67 id_104" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 5.204315,92.506775 -489.823059,-622.184937 -416.601593,-1025.424683"
+              class="id_0 id_67" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -180.930695,372.963257 C -212.382431,452.151672 -378.342651,523.756653 -457.531067,492.304932"
+              class="id_108 id_56" stroke-opacity="1.0" stroke="#d5a36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1081.940796,-42.772835 C 957.153015,215.799515 382.112793,416.476379 123.540459,291.688568"
+              class="id_3 id_50" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 440.455322,436.963379 C 462.349335,444.192047 484.347290,487.876038 477.118622,509.770050"
+              class="id_105 id_107" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 440.455322,436.963379 C 453.407104,458.588501 440.397095,510.453857 418.771973,523.405640"
+              class="id_105 id_106" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -180.930695,372.963257 C -194.391754,370.840332 -211.398987,347.464386 -209.276062,334.003326"
+              class="id_108 id_109" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 191.207626,72.700813 C 180.861038,89.099358 140.743347,98.177299 124.344788,87.830711"
+              class="id_110 id_111" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 191.207626,72.700813 C 171.711746,67.948730 149.596069,31.576799 154.348145,12.080924"
+              class="id_110 id_112" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 191.207626,72.700813 C 169.285767,81.211914 123.636307,61.095772 115.125206,39.173908"
+              class="id_110 id_113" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 390.799896,151.574265 385.564606,103.877068 399.718597,86.232903"
+              class="id_0 id_114" stroke-opacity="1.0" stroke="#df8ea0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 346.391266,190.570038 216.049423,134.753586 191.207626,72.700813"
+              class="id_0 id_110" stroke-opacity="1.0" stroke="#7f8c8a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 332.016113,325.050201 -21.608734,449.391174 -180.930695,372.963257"
+              class="id_0 id_108" stroke-opacity="1.0" stroke="#df8ea0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 469.093353,213.573013 488.300110,376.314087 440.455322,436.963379"
+              class="id_0 id_105" stroke-opacity="1.0" stroke="#e98798"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 453.472900,342.768982 255.455017,675.873352 78.414261,720.902161"
+              class="id_0 id_115" stroke-opacity="1.0" stroke="#df8ea0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 411.841461,190.557892 379.693085,232.898453 354.863434,236.295853"
+              class="id_0 id_120" stroke-opacity="1.0" stroke="#df8ea0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 304.473694,100.321739 246.627869,-153.743546 312.034393,-257.713928"
+              class="id_0 id_121" stroke-opacity="1.0" stroke="#df8ea0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.444061,165.728241 C 429.845032,178.332031 443.040833,229.339142 430.437042,250.740112"
+              class="id_0 id_127" stroke-opacity="1.0" stroke="#df8ea0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.477142,889.426514 C -274.403717,775.943359 -35.068893,674.828796 78.414261,720.902161"
+              class="id_27 id_115" stroke-opacity="1.0" stroke="#d5a36a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.414261,720.902161 C 103.359467,737.566284 115.781090,799.980225 99.116966,824.925476"
+              class="id_115 id_117" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.414261,720.902161 C 90.404945,741.017700 78.217705,789.177002 58.102192,801.167664"
+              class="id_115 id_118" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 78.414261,720.902161 C 101.353966,723.929504 131.222565,762.879944 128.195282,785.819641"
+              class="id_115 id_119" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 312.034393,-257.713928 C 281.762939,-262.050262 242.860321,-313.961945 247.196655,-344.233398"
+              class="id_121 id_122" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 312.034393,-257.713928 C 291.953278,-279.960449 295.201355,-343.451935 317.447876,-363.533051"
+              class="id_121 id_123" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 312.034393,-257.713928 C 309.479675,-279.461517 338.269012,-315.914978 360.016602,-318.469696"
+              class="id_121 id_124" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 312.034393,-257.713928 C 291.379639,-249.648834 248.299866,-268.533356 240.234772,-289.188110"
+              class="id_121 id_125" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 312.034393,-257.713928 C 292.260162,-267.750793 277.654053,-312.467499 287.690918,-332.241730"
+              class="id_121 id_126" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1324.291992,1134.447754 C -1356.730469,1132.865479 -1403.014893,1081.834106 -1401.432617,1049.395630"
+              class="id_21 id_37" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1081.940796,-42.772835 C 1235.626953,-136.316757 1606.472168,-46.103401 1700.015991,107.582764"
+              class="id_3 id_158398rega" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1081.940796,-42.772835 C 1215.989136,-107.294846 1513.844727,-3.005318 1578.366699,131.043045"
+              class="id_3 id_78989dispa" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1081.940796,-42.772835 C 1211.789795,-128.759491 1535.543213,-62.966019 1621.529907,66.882957"
+              class="id_3 id_777246cora" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1081.940796,-42.772835 C 1032.114990,-57.176277 978.981628,-153.520035 993.385071,-203.345779"
+              class="id_3 id_64" stroke-opacity="1.0" stroke="#17adb8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1081.940796,-42.772835 C 1033.623901,-44.177319 963.255249,-118.759384 964.659790,-167.076279"
+              class="id_3 id_66" stroke-opacity="1.0" stroke="#17adb8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1081.940796,-42.772835 C 886.814758,-69.474571 634.178406,-402.216156 660.880127,-597.342163"
+              class="id_3 id_71" stroke-opacity="1.0" stroke="#7f93c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -180.930695,372.963257 C -224.413116,446.215820 -399.515625,490.871002 -472.768188,447.388580"
+              class="id_108 id_43" stroke-opacity="1.0" stroke="#d5a36a"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#5fc613" r="11.212121" cx="1568.0195"
+                class="id_714152tset" cy="644.3773" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.0" cx="1432.8623"
+                class="id_689206tmes" cy="694.93054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.424242" cx="1761.4988"
+                class="id_176529comb" cy="627.52313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="20.909092" cx="1506.807"
+                class="id_641612prob" cy="586.95795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="13.636364" cx="1771.102"
+                class="id_307380cond" cy="697.5077" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="13.636364" cx="1688.2098"
+                class="id_717793sump" cy="612.1714" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="11.212121" cx="1640.965"
+                class="id_861444baes" cy="755.152" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.424242" cx="1768.3442"
+                class="id_140756bern" cy="567.8366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="29.39394" cx="1683.5498"
+                class="id_734880dist" cy="309.12552" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="11.212121" cx="1813.5363"
+                class="id_561284rfun" cy="356.6745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="2092.5896"
+                class="id_672395indv" cy="201.08636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="24.545456" cx="1870.4471"
+                class="id_498041chha" cy="287.097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="2035.0822"
+                class="id_991040rvec" cy="303.12097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="2037.1173"
+                class="id_87145condd" cy="425.6219" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="2028.2633"
+                class="id_167610lreg" cy="169.63225" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="14.848485" cx="1949.0508"
+                class="id_717912lcor" cy="214.64421" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.424242" cx="1695.0813"
+                class="id_283030tlim" cy="436.8834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.424242" cx="1839.6765"
+                class="id_115738dpar" cy="469.36658" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="1889.9174"
+                class="id_804938krit" cy="141.81523" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="1846.0535"
+                class="id_604150kyes" cy="175.83769" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="18.484848" cx="1822.5408"
+                class="id_163416hipo" cy="92.706215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="14.848485" cx="1700.016"
+                class="id_158398rega" cy="107.58276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="1578.3667"
+                class="id_78989dispa" cy="131.04305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="13.636364" cx="1621.5299"
+                class="id_777246cora" cy="66.88296" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="13.636364" cx="1647.5034"
+                class="id_934682trpr" cy="500.95798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="25.757576" cx="408.44406"
+                class="id_0" cy="165.72824" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="17.272728" cx="798.02673"
+                class="id_1" cy="137.42389" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="50.0" cx="-794.6018"
+                class="id_2" cy="580.3673" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="18.484848" cx="1081.9408"
+                class="id_3" cy="-42.772835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="788.00946"
+                class="id_4" cy="78.27177" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="869.5056"
+                class="id_5" cy="151.07518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="753.6839"
+                class="id_6" cy="189.97757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="797.65686"
+                class="id_7" cy="224.8642" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="10.0" cx="844.4233"
+                class="id_8" cy="207.32268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="12.424242" cx="-1111.7078"
+                class="id_9" cy="917.2048" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.212121" cx="-1272.4825"
+                class="id_10" cy="1070.6106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1166.5181"
+                class="id_11" cy="971.5518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-731.26935"
+                class="id_12" cy="452.90918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.212121" cx="-1082.429"
+                class="id_13" cy="638.2558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1184.1354"
+                class="id_14" cy="658.6637" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="12.424242" cx="-1159.7262"
+                class="id_15" cy="346.29224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1264.2638"
+                class="id_16" cy="297.98218" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1234.9233"
+                class="id_17" cy="265.3388" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-674.49634"
+                class="id_18" cy="644.52454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="13.636364" cx="-1120.0122"
+                class="id_19" cy="1084.2151" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1175.4287"
+                class="id_20" cy="1171.9802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="12.424242" cx="-1324.292"
+                class="id_21" cy="1134.4478" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1121.6838"
+                class="id_23" cy="1187.1001" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-825.5946"
+                class="id_24" cy="759.58655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-712.3094"
+                class="id_25" cy="722.9162" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-747.4384"
+                class="id_26" cy="747.3837" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="14.848485" cx="-320.47714"
+                class="id_27" cy="889.4265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-336.20993"
+                class="id_28" cy="981.1051" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-297.90265"
+                class="id_29" cy="1004.7441" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-273.34573"
+                class="id_30" cy="965.19476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="12.424242" cx="-1238.128"
+                class="id_31" cy="512.9692" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1365.9286"
+                class="id_32" cy="526.6021" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1352.3434"
+                class="id_33" cy="476.1391" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="13.636364" cx="-1318.173"
+                class="id_34" cy="881.057" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1421.4989"
+                class="id_35" cy="916.1933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-1436.1478"
+                class="id_36" cy="868.87463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.212121" cx="-1401.4326"
+                class="id_37" cy="1049.3956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-799.8662"
+                class="id_38" cy="709.53827" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-840.49255"
+                class="id_39" cy="415.34195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-694.4993"
+                class="id_40" cy="692.18134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-955.3225"
+                class="id_41" cy="533.6005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-932.44684"
+                class="id_42" cy="478.4006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.212121" cx="-472.7682"
+                class="id_43" cy="447.38858" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-858.5361"
+                class="id_44" cy="682.47076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-774.43445"
+                class="id_45" cy="427.38474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-859.4652"
+                class="id_46" cy="466.36823" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.212121" cx="-638.7142"
+                class="id_47" cy="-246.29645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-876.36536"
+                class="id_48" cy="735.3167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-910.8023"
+                class="id_49" cy="514.38556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.212121" cx="123.54046"
+                class="id_50" cy="291.68857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-935.4098"
+                class="id_51" cy="575.37585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-916.48364"
+                class="id_52" cy="439.3882" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-948.53253"
+                class="id_54" cy="617.8325" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-936.3751"
+                class="id_55" cy="695.87585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.212121" cx="-457.53107"
+                class="id_56" cy="492.30493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-700.78613"
+                class="id_57" cy="488.87497" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-914.476"
+                class="id_58" cy="651.9086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.0" cx="-666.3026"
+                class="id_59" cy="575.10364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="16.060606" cx="828.30414"
+                class="id_60" cy="-248.77959" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="11.212121" cx="898.1898"
+                class="id_61" cy="-462.80823" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="10.0" cx="923.86993"
+                class="id_62" cy="-552.42755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="10.0" cx="798.9415"
+                class="id_63" cy="-326.75336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="11.212121" cx="993.3851"
+                class="id_64" cy="-203.34578" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="10.0" cx="860.43256"
+                class="id_65" cy="-340.22876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="11.212121" cx="964.6598"
+                class="id_66" cy="-167.07628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="39.09091" cx="-416.6016"
+                class="id_67" cy="-1025.4247" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-305.73563"
+                class="id_68" cy="-1091.4647" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="16.060606" cx="219.97942"
+                class="id_69" cy="-1037.7528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="288.50418"
+                class="id_70" cy="-1075.9988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="11.212121" cx="660.8801"
+                class="id_71" cy="-597.34216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="203.46005"
+                class="id_72" cy="-1111.2656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="243.6116"
+                class="id_73" cy="-1140.8431" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="287.9743"
+                class="id_74" cy="-1124.99" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="14.848485" cx="-789.3492"
+                class="id_75" cy="-1609.9369" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="14.848485" cx="-985.0115"
+                class="id_76" cy="-1918.5654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-962.9926"
+                class="id_77" cy="-1975.3502" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-1054.1722"
+                class="id_78" cy="-1959.0005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-1014.2521"
+                class="id_79" cy="-1987.5452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-1061.8895"
+                class="id_80" cy="-1904.8553" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-774.76697"
+                class="id_81" cy="-1683.2189" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-859.4263"
+                class="id_82" cy="-1625.5281" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-834.9099"
+                class="id_83" cy="-1668.3191" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-555.81116"
+                class="id_84" cy="-966.3459" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-577.46344"
+                class="id_85" cy="-1078.0272" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-514.0713"
+                class="id_86" cy="-941.2434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-362.96066"
+                class="id_87" cy="-1125.4934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-404.50116"
+                class="id_88" cy="-1152.506" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-351.69278"
+                class="id_89" cy="-1175.0265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-579.49585"
+                class="id_90" cy="-1023.4545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-309.23215"
+                class="id_91" cy="-1138.9106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-484.4453"
+                class="id_92" cy="-1188.0833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-296.55084"
+                class="id_93" cy="-1041.9127" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-508.99753"
+                class="id_94" cy="-1109.4465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-316.52634"
+                class="id_95" cy="-975.04456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-473.3742"
+                class="id_96" cy="-1139.0531" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-407.6789"
+                class="id_97" cy="-1201.0272" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-523.4971"
+                class="id_98" cy="-1164.7563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-534.58673"
+                class="id_99" cy="-1006.23474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-476.35367"
+                class="id_101" cy="-923.23224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-555.66986"
+                class="id_102" cy="-1124.1344" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-394.3545"
+                class="id_103" cy="-908.0664" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.0" cx="-534.26086"
+                class="id_104" cy="-1062.4199" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="12.424242" cx="440.45532"
+                class="id_105" cy="436.96338" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="418.77197"
+                class="id_106" cy="523.40564" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="477.11862"
+                class="id_107" cy="509.77005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="13.636364" cx="-180.9307"
+                class="id_108" cy="372.96326" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-209.27606"
+                class="id_109" cy="334.00333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="13.636364" cx="191.20763"
+                class="id_110" cy="72.70081" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="124.34479"
+                class="id_111" cy="87.83071" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="154.34814"
+                class="id_112" cy="12.080924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="115.125206"
+                class="id_113" cy="39.17391" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="399.7186"
+                class="id_114" cy="86.2329" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="14.848485" cx="78.41426"
+                class="id_115" cy="720.90216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="99.11697"
+                class="id_117" cy="824.9255" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="58.102192"
+                class="id_118" cy="801.16766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="128.19528"
+                class="id_119" cy="785.81964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="354.86343"
+                class="id_120" cy="236.29585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="16.060606" cx="312.0344"
+                class="id_121" cy="-257.71393" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="247.19666"
+                class="id_122" cy="-344.2334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="317.44788"
+                class="id_123" cy="-363.53305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="360.0166"
+                class="id_124" cy="-318.4697" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="240.23477"
+                class="id_125" cy="-289.1881" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="287.69092"
+                class="id_126" cy="-332.24173" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="430.43704"
+                class="id_127" cy="250.74011" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="1568.0195" y="647.12146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_714152tset">
+            Теория множеств
+        </text>
+        <text font-size="12" x="1432.8623" y="697.6747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_689206tmes">
+            Теория меры
+        </text>
+        <text font-size="12" x="1761.4988" y="630.31903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_176529comb">
+            Комбинаторика
+        </text>
+        <text font-size="12" x="1506.807" y="589.7021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_641612prob">
+            Вероятность
+        </text>
+        <text font-size="12" x="1771.102" y="700.3036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_307380cond">
+            Условная вероятность сл.события
+        </text>
+        <text font-size="12" x="1688.2098" y="614.9946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_717793sump">
+            Сложение и умножение вероятностей
+        </text>
+        <text font-size="12" x="1640.965" y="757.9752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_861444baes">
+            Формула Байеса
+        </text>
+        <text font-size="12" x="1768.3442" y="570.6335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_140756bern">
+            Формула Бернулли
+        </text>
+        <text font-size="12" x="1683.5498" y="311.90677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_734880dist">
+            Законы распределения сл. величин
+        </text>
+        <text font-size="12" x="1813.5363" y="359.49774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_561284rfun">
+            Функции от случайной величины
+        </text>
+        <text font-size="12" x="2092.5896" y="203.30804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_672395indv">
+            Зависиые и независимые сл.величины
+        </text>
+        <text font-size="12" x="1870.4471" y="289.84113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_498041chha">
+            Числовые характеристики распределения
+        </text>
+        <text font-size="12" x="2035.0822" y="305.9442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_991040rvec">
+            Случайные векторы
+        </text>
+        <text font-size="12" x="2037.1173" y="428.36603" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_87145condd">
+            Условные законы распределения
+        </text>
+        <text font-size="12" x="2028.2633" y="172.42033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_167610lreg">
+            Линейная регрессия
+        </text>
+        <text font-size="12" x="1949.0508" y="217.4323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_717912lcor">
+            Линейная корреляция
+        </text>
+        <text font-size="12" x="1695.0813" y="439.62753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_283030tlim">
+            Предельные теоремы ТВ
+        </text>
+        <text font-size="12" x="1839.6765" y="472.1488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_115738dpar">
+            Оценки параметров распределения
+        </text>
+        <text font-size="12" x="1889.9174" y="144.60332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_804938krit">
+            Статистический критерий
+        </text>
+        <text font-size="12" x="1846.0535" y="178.58379" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_604150kyes">
+            Критерии согласия
+        </text>
+        <text font-size="12" x="1822.5408" y="95.450356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_163416hipo">
+            Проверка статистических гипотез
+        </text>
+        <text font-size="12" x="1700.016" y="110.37085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_158398rega">
+            Регрессионный анализ
+        </text>
+        <text font-size="12" x="1578.3667" y="133.83113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_78989dispa">
+            Дисперсионный анализ
+        </text>
+        <text font-size="12" x="1621.5299" y="69.67104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_777246cora">
+            Корреляционный анализ
+        </text>
+        <text font-size="12" x="1647.5034" y="503.78122" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_934682trpr">
+            Теория случайных процессов
+        </text>
+        <text font-size="12" x="408.44406" y="167.91086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_0">
+            Математика
+        </text>
+        <text font-size="12" x="798.02673" y="139.6065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1">
+            Высшая математика
+        </text>
+        <text font-size="12" x="-794.6018" y="583.11145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_2">
+            Геометрия
+        </text>
+        <text font-size="12" x="1081.9408" y="-40.546272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_3">
+            Математический анализ
+        </text>
+        <text font-size="12" x="788.00946" y="81.01591" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_4">
+            Дифференциалы
+        </text>
+        <text font-size="12" x="869.5056" y="153.81932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_5">
+            Интегралы
+        </text>
+        <text font-size="12" x="753.6839" y="192.21194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_6">
+            Анализ бесконечно малых
+        </text>
+        <text font-size="12" x="797.65686" y="227.60834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_7">
+            Теория деформации
+        </text>
+        <text font-size="12" x="844.4233" y="209.54924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_8">
+            Численный анализ
+        </text>
+        <text font-size="12" x="-1111.7078" y="919.9489" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_9">
+            Тригонометрия
+        </text>
+        <text font-size="12" x="-1272.4825" y="1073.3918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_10">
+            Сферическая тригонометрия
+        </text>
+        <text font-size="12" x="-1166.5181" y="974.29596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_11">
+            Рациональная тригонометрия
+        </text>
+        <text font-size="12" x="-731.26935" y="455.65332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_12">
+            Аналитическая геометрия
+        </text>
+        <text font-size="12" x="-1082.429" y="640.99994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_13">
+            Евклидова геометрия
+        </text>
+        <text font-size="12" x="-1184.1354" y="660.8512" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_14">
+            евклидова планиметрия
+        </text>
+        <text font-size="12" x="-1159.7262" y="349.03638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_15">
+            дифференциальная геометрия и топология
+        </text>
+        <text font-size="12" x="-1264.2638" y="300.16968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_16">
+            риманова геометрия
+        </text>
+        <text font-size="12" x="-1234.9233" y="267.5263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_17">
+            симплектическая геометрия
+        </text>
+        <text font-size="12" x="-674.49634" y="646.71204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_18">
+            эпиполярная геометрия
+        </text>
+        <text font-size="12" x="-1120.0122" y="1086.4026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_19">
+            неевклидова геометрия
+        </text>
+        <text font-size="12" x="-1175.4287" y="1174.7761" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_20">
+            геометрия Лобачевского
+        </text>
+        <text font-size="12" x="-1324.292" y="1137.1919" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_21">
+            сферическая геометрия
+        </text>
+        <text font-size="12" x="-1121.6838" y="1189.8442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_23">
+            геометрия Римана
+        </text>
+        <text font-size="12" x="-825.5946" y="761.77405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_24">
+            синтетическая геометрия
+        </text>
+        <text font-size="12" x="-712.3094" y="725.1037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_25">
+            динамическая геометрия
+        </text>
+        <text font-size="12" x="-747.4384" y="749.5712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_26">
+            начертательная геометрия
+        </text>
+        <text font-size="12" x="-320.47714" y="891.614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_27">
+            вычислительная геометрия
+        </text>
+        <text font-size="12" x="-336.20993" y="983.8932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_28">
+            Алгоритм заметающей прямой
+        </text>
+        <text font-size="12" x="-297.90265" y="1007.53217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_29">
+            геометрический алгоритм
+        </text>
+        <text font-size="12" x="-273.34573" y="968.0258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_30">
+            Алгоритмы построения выпуклой оболочки
+        </text>
+        <text font-size="12" x="-1238.128" y="515.7651" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_31">
+            комбинаторная геометрия
+        </text>
+        <text font-size="12" x="-1365.9286" y="528.7896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_32">
+            численная геометрия
+        </text>
+        <text font-size="12" x="-1352.3434" y="478.88324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_33">
+            математическая морфология
+        </text>
+        <text font-size="12" x="-1318.173" y="883.2445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_34">
+            планиметрия
+        </text>
+        <text font-size="12" x="-1421.4989" y="918.41595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_35">
+            геометрия треугольника
+        </text>
+        <text font-size="12" x="-1436.1478" y="871.06213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_36">
+            евклидова планиметрия
+        </text>
+        <text font-size="12" x="-1401.4326" y="1052.1398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_37">
+            сферическая геометрия Ли
+        </text>
+        <text font-size="12" x="-799.8662" y="712.2824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_38">
+            геометрическая теория графов
+        </text>
+        <text font-size="12" x="-840.49255" y="417.52945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_39">
+            гониометрия
+        </text>
+        <text font-size="12" x="-694.4993" y="694.36884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_40">
+            стохастическая геометрия
+        </text>
+        <text font-size="12" x="-955.3225" y="535.8232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_41">
+            выпуклая геометрия
+        </text>
+        <text font-size="12" x="-932.44684" y="480.5881" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_42">
+            метрическая геометрия
+        </text>
+        <text font-size="12" x="-472.7682" y="449.57608" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_43">
+            квантовая геометрия
+        </text>
+        <text font-size="12" x="-858.5361" y="685.25885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_44">
+            геометрия Клейна
+        </text>
+        <text font-size="12" x="-774.43445" y="429.57224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_45">
+            комплексная геометрия
+        </text>
+        <text font-size="12" x="-859.4652" y="468.55573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_46">
+            тропическая геометрия
+        </text>
+        <text font-size="12" x="-638.7142" y="-243.5523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_47">
+            информационная геометрия
+        </text>
+        <text font-size="12" x="-876.36536" y="737.5042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_48">
+            спектральная геометрия
+        </text>
+        <text font-size="12" x="-910.8023" y="516.6082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_49">
+            архитектурная геометрия
+        </text>
+        <text font-size="12" x="123.54046" y="294.47665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_50">
+            геометрический анализ
+        </text>
+        <text font-size="12" x="-935.4098" y="577.56335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_51">
+            антропометрия
+        </text>
+        <text font-size="12" x="-916.48364" y="441.61087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_52">
+            упорядоченная геометрия
+        </text>
+        <text font-size="12" x="-948.53253" y="620.6284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_54">
+            параболическая геометрия
+        </text>
+        <text font-size="12" x="-936.3751" y="698.06335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_55">
+            инверсивная геометрия
+        </text>
+        <text font-size="12" x="-457.53107" y="495.12817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_56">
+            геометрия Руппейнера
+        </text>
+        <text font-size="12" x="-700.78613" y="491.06247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_57">
+            многомерная геометрия
+        </text>
+        <text font-size="12" x="-914.476" y="654.1313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_58">
+            квадратура многоугольников
+        </text>
+        <text font-size="12" x="-666.3026" y="577.8478" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_59">
+            Диофантова геометрия
+        </text>
+        <text font-size="12" x="828.30414" y="-246.59209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_60">
+            теория чисел
+        </text>
+        <text font-size="12" x="898.1898" y="-460.01233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_61">
+            алгебраическая теория чисел
+        </text>
+        <text font-size="12" x="923.86993" y="-549.63947" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_62">
+            теория полей классов
+        </text>
+        <text font-size="12" x="798.9415" y="-324.56586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_63">
+            геометрия чисел
+        </text>
+        <text font-size="12" x="993.3851" y="-200.5577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_64">
+            p-адический анализ
+        </text>
+        <text font-size="12" x="860.43256" y="-337.48462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_65">
+            Аддитивная теория чисел
+        </text>
+        <text font-size="12" x="964.6598" y="-164.88878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_66">
+            аналитическая теория чисел
+        </text>
+        <text font-size="12" x="-416.6016" y="-1023.7987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_67">
+            статистика
+        </text>
+        <text font-size="12" x="-305.73563" y="-1088.6337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_68">
+            функция правдоподобия
+        </text>
+        <text font-size="12" x="219.97942" y="-1034.9735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_69">
+            Data mining
+        </text>
+        <text font-size="12" x="288.50418" y="-1073.1677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_70">
+            Обучение ассоциативным правилам
+        </text>
+        <text font-size="12" x="660.8801" y="-594.5541" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_71">
+            кластерный анализ
+        </text>
+        <text font-size="12" x="203.46005" y="-1108.4775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_72">
+            Анализ рыночной корзины
+        </text>
+        <text font-size="12" x="243.6116" y="-1138.0638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_73">
+            Web mining
+        </text>
+        <text font-size="12" x="287.9743" y="-1122.7556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_74">
+            Библиомайнинг
+        </text>
+        <text font-size="12" x="-789.3492" y="-1607.1488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_75">
+            теория принятия решений
+        </text>
+        <text font-size="12" x="-985.0115" y="-1916.3779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_76">
+            теория игр
+        </text>
+        <text font-size="12" x="-962.9926" y="-1973.1627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_77">
+            алгоритмическая теория игр
+        </text>
+        <text font-size="12" x="-1054.1722" y="-1956.2212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_78">
+            Теория аукционов
+        </text>
+        <text font-size="12" x="-1014.2521" y="-1985.3577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_79">
+            шахматная теория
+        </text>
+        <text font-size="12" x="-1061.8895" y="-1902.0594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_80">
+            комбинаторная теория игр
+        </text>
+        <text font-size="12" x="-774.76697" y="-1680.4366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_81">
+            Ограниченная рациональность
+        </text>
+        <text font-size="12" x="-859.4263" y="-1622.74" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_82">
+            теория ожидаемой полезности
+        </text>
+        <text font-size="12" x="-834.9099" y="-1665.575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_83">
+            Ценность информации
+        </text>
+        <text font-size="12" x="-555.81116" y="-964.1174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_84">
+            Статистика Бозе — Эйнштейна
+        </text>
+        <text font-size="12" x="-577.46344" y="-1075.8446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_85">
+            Биологическая статистика
+        </text>
+        <text font-size="12" x="-514.0713" y="-939.61743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_86">
+            лексикостатистика
+        </text>
+        <text font-size="12" x="-362.96066" y="-1123.2708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_87">
+            Описательная статистика
+        </text>
+        <text font-size="12" x="-404.50116" y="-1150.3214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_88">
+            Квантовая статистика
+        </text>
+        <text font-size="12" x="-351.69278" y="-1172.2823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_89">
+            Уровень занятости населения
+        </text>
+        <text font-size="12" x="-579.49585" y="-1021.23285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_90">
+            Экономическая статистика
+        </text>
+        <text font-size="12" x="-309.23215" y="-1136.1665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_91">
+            Хемометрика
+        </text>
+        <text font-size="12" x="-484.4453" y="-1186.051" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_92">
+            медицинская статистика
+        </text>
+        <text font-size="12" x="-296.55084" y="-1039.7301" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_93">
+            Геостатистика
+        </text>
+        <text font-size="12" x="-508.99753" y="-1107.259" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_94">
+            параметрическая статистика
+        </text>
+        <text font-size="12" x="-316.52634" y="-972.3004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_95">
+            Многомерная статистика
+        </text>
+        <text font-size="12" x="-473.3742" y="-1136.309" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_96">
+            Демографическая статистика
+        </text>
+        <text font-size="12" x="-407.6789" y="-1198.2831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_97">
+            Прикладная статистика
+        </text>
+        <text font-size="12" x="-523.4971" y="-1162.5337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_98">
+            наука о данных
+        </text>
+        <text font-size="12" x="-534.58673" y="-1003.4906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_99">
+            демографика
+        </text>
+        <text font-size="12" x="-476.35367" y="-920.4881" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_101">
+            Астростатистика
+        </text>
+        <text font-size="12" x="-555.66986" y="-1121.3903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_102">
+            официальная статистика
+        </text>
+        <text font-size="12" x="-394.3545" y="-905.32227" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_103">
+            Анализ временных рядов
+        </text>
+        <text font-size="12" x="-534.26086" y="-1059.794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_104">
+            Статистические данные
+        </text>
+        <text font-size="12" x="440.45532" y="439.15088" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_105">
+            прикладная математика
+        </text>
+        <text font-size="12" x="418.77197" y="526.1498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_106">
+            Прикладная статистика
+        </text>
+        <text font-size="12" x="477.11862" y="511.97025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_107">
+            Финансовая математика
+        </text>
+        <text font-size="12" x="-180.9307" y="375.7074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_108">
+            математическая физика
+        </text>
+        <text font-size="12" x="-209.27606" y="336.8002" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_109">
+            анализ Фурье
+        </text>
+        <text font-size="12" x="191.20763" y="74.92347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_110">
+            теория групп
+        </text>
+        <text font-size="12" x="124.34479" y="90.64712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_111">
+            Задание группы
+        </text>
+        <text font-size="12" x="154.34814" y="14.860221" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_112">
+            Вычислительная теория групп
+        </text>
+        <text font-size="12" x="115.125206" y="41.953205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_113">
+            Геометрическая теория групп
+        </text>
+        <text font-size="12" x="399.7186" y="89.01415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_114">
+            Экспериментальная математика
+        </text>
+        <text font-size="12" x="78.41426" y="722.52814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_115">
+            вычислительная математика
+        </text>
+        <text font-size="12" x="99.11697" y="827.71356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_117">
+            Алгоритм заметающей прямой
+        </text>
+        <text font-size="12" x="58.102192" y="803.95575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_118">
+            геометрический алгоритм
+        </text>
+        <text font-size="12" x="128.19528" y="788.6507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_119">
+            Алгоритмы построения выпуклой оболочки
+        </text>
+        <text font-size="12" x="354.86343" y="239.09175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_120">
+            Линейное приближение
+        </text>
+        <text font-size="12" x="312.0344" y="-254.96979" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_121">
+            теоретическая информатика
+        </text>
+        <text font-size="12" x="247.19666" y="-342.0459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_122">
+            теория вычислимости
+        </text>
+        <text font-size="12" x="317.44788" y="-360.74496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_123">
+            теория сложности вычислений
+        </text>
+        <text font-size="12" x="360.0166" y="-315.6738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_124">
+            комбинаторная теория игр
+        </text>
+        <text font-size="12" x="240.23477" y="-286.3922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_125">
+            Векторная алгебра
+        </text>
+        <text font-size="12" x="287.69092" y="-330.05423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_126">
+            математическое программирование
+        </text>
+        <text font-size="12" x="430.43704" y="252.96277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_127">
+            теория пучков
+        </text>
+    </g>
+</svg>

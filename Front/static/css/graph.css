@@ -1,0 +1,23 @@
+body{
+  background-color: rgba(241,239,239);
+}
+.page-header{
+  background-color: rgba(55,64,118);
+}
+
+.page-header .promo{
+  color: white;
+}
+
+.box{
+  width: 1500px;
+  height: 960px;
+  overflow: hidden;
+  border-right: 5px solid black;
+
+}
+.box img{
+  cursor: grab;
+  position: relative;
+  object-fit: cover;
+}
