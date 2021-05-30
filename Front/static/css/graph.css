@@ -1,5 +1,5 @@
 body{
-  background-color: rgba(241,239,239);
+  background-color: white;
 }
 .page-header{
   background-color: rgba(55,64,118);
@@ -7,15 +7,25 @@ body{
 
 .page-header .promo{
   color: white;
+  font-size: 25px;
 }
 
+.header-logo img{
+  height: 80px;
+  width: 80px;
+}
+
+.main-box{
+  margin: 0;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  height: 700px;
+}
 .box{
-  width: 1500px;
-  height: 960px;
   overflow: hidden;
   border-right: 5px solid black;
-
 }
+
 .box img{
   cursor: grab;
   position: relative;

@@ -1,4 +1,5 @@
 css
+
 body,html{
   margin: 0;
   padding: 0;
@@ -29,7 +30,6 @@ body{
 .page-header{
   width: 100%;
   height: 100%;
-  position: absolute;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -40,7 +40,11 @@ body{
   padding: 0;
   padding-left: 20px;
   padding-right: 30px;
-
+}
+.header-logo img{
+  height:120px;
+  width:120px;
+  object-fit: cover;
 }
 .promo{
   padding: 0;
