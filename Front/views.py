@@ -6,3 +6,6 @@ def main(request):
 
 def graph(request):
     return render(request, 'graph.html', {})
+
+def mobile(request):
+    return render(request, 'mobile.html', {});

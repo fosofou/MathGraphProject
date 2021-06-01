@@ -1,0 +1,20 @@
+body{
+  background-color: white;
+}
+.page-header{
+  background-color: rgba(55,64,118);
+  width:3573.4023px;
+}
+
+.page-header .promo{
+  color: white;
+  font-size: 25px;
+}
+
+.header-logo img{
+  height: 80px;
+  width: 80px;
+}
+img{
+  padding: 20px;
+}
