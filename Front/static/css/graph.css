@@ -31,3 +31,18 @@ body{
   position: relative;
   object-fit: cover;
 }
+
+.container {
+    width: 1200px;
+    height: 700px;
+    position:relative;
+    border-right: 5px solid black;
+    overflow: hidden;
+}
+
+.container img {
+    min-width: 100%;
+    min-height: 100%;
+    cursor: grab;
+    object-fit: cover;
+}

@@ -51,6 +51,7 @@ body{
   font-family: "Oswald";
   font-size: 38px;
   color: rgba(27,38,49);
+  line-height: 2em;
 }
 nav{
   display: flex;
@@ -88,6 +89,7 @@ nav a{
   justify-content: center;
   padding-top:170px;
   color: rgba(27,38,49);
+    line-height: 1em;
 }
 
 .line{
