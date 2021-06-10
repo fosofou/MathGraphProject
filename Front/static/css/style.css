@@ -60,10 +60,6 @@ nav{
   padding-left: 100px;
   background-color: rgba(74,76,154);
   border-bottom: 5px solid rgba(91,93,185);
-}
-nav a{
-  color: black;
-  text-decoration: none;
   font-size: 24px;
 }
 

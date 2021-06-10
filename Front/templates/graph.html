@@ -2,9 +2,29 @@
 {% block content %}
 {% load static %}
 <link rel="stylesheet" type="text/css" href = {% static "css/graph.css" %}>
+<script src="{% static 'js/zoom.js' %}"></script>
 <div class = 'main-box'>
-  <div class = 'container dragscroll'>
-    <img  src = {% static 'imgs/Graph.svg' %} >
+  <div  class = 'container dragscroll' id = "graph-container">
+    <img id = "graph" src = {% static 'imgs/Graph.svg' %} >
   </div>
+  <nav class = 'graph-navigations'>
+    <h3>Основные темы</h3>
+    <ul>
+      <li><a  id = 'math'>Математика</a></li>
+      <li><a  id = "stat">Статистика</a></li>
+      <li><a  id = 'geom'>Геометрия</a></li>
+      <li><a  id = 'himath'>Высшая математика</a></li>
+      <li><a  id = 'num'>Теория чисел</a></li>
+      <li><a  id = 'chance'>Вероятность</a></li>
+    </ul>
+    <h4><a href="{% url 'mobile' %}">Полный размер</a><h4>
+
+    <div class = 'scale'>
+      <a onclick="zoomin()"><img src = {% static 'imgs/2.png' %} height = '20px'></a>
+      <a onclick="zoomout()"><img src = {% static 'imgs/1.png' %} height = '20px'></a>
+      <a onclick = "reset()"><img src = {% static 'imgs/reload.png' %} height = '22px'></a>
+    </div>
+  </nav>
 </div>
+<script src="{% static 'js/scroll.js' %}"></script>
 {% endblock %}
